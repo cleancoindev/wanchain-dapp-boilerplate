@@ -8,7 +8,7 @@
     "@babel/runtime": "^7.0.0-beta.42",
     "fibers": "^2.0.2",
     "meteor-node-stubs": "^0.3.2",
-    "solc": "^0.4.23",
+    "solc": "^0.8.13",
     "strip-hex-prefix": "^1.0.0",
     "truffle-artifactor": "^3.0.5",
     "truffle-contract": "^3.0.5",
